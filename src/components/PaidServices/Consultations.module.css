@@ -1,0 +1,12 @@
+ .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    cursor: pointer;
+    transition: 0.2s;
+    width: 100%;
+ }
+ .wrapper:hover {
+    box-shadow: 4px 0px 12px 7px rgba(34, 60, 80, 0.13);
+ }
